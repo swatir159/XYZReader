@@ -2,6 +2,12 @@
 Thumbs.db
 ehthumbs.db
 
+#files not to be uploaded
+.gradle
+XYZReader/build/
+.idea
+build
+
 # Folder config file
 Desktop.ini
 
